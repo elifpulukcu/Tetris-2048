@@ -2,7 +2,7 @@
 
 This project is an undergraduate course project. Project constraints and requirements are as follows:
 
-- In this project, you will develop a game in Java using the basic drawing class (StdDraw) provided by the book: [Computer Science: An Interdisciplinary Approach by Robert Sedgewick and Kevin Wayne.]([/guides/content/editing-an-existing-page#modifying-front-matter](https://anvilproject.org/guides/content/creating-links))
+- In this project, you will develop a game in Java using the basic drawing class (StdDraw) provided by the book: [Computer Science: An Interdisciplinary Approach by Robert Sedgewick and Kevin Wayne.](https://introcs.cs.princeton.edu/java/home/)
 - The game you will develop is a combination of two well-known games: Tetris and 2048.
 
   * You are not allowed to use other libraries. 
