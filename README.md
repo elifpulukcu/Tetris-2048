@@ -1,4 +1,4 @@
-# Tetris-2048,
+# Tetris-2048
 
 This project is an undergraduate course project. Project constraints and requirements are as follows:
 
